@@ -5,9 +5,4 @@
 .lesshst
 .local/
 .profile
-.zcompdump*
-
-!odoo-venv
-!odoo
-!.gitconfig
-!.gitignore
+.zcompdump
