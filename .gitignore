@@ -1,4 +1,11 @@
-*
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.lesshst
+.local/
+.profile
+.zcompdump*
 
 !odoo-venv
 !odoo
