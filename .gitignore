@@ -1,0 +1,6 @@
+*
+
+!odoo-venv
+!odoo
+!.gitconfig
+!.gitignore
